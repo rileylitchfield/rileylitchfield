@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rileylitchfield.
-- 👀 I’m interested in Frontend Development.
+- 👀 I’m interested in Web Development.
 - 🌱 I’m currently building projects with WordPress and React.
-- ⚛️ I'm interested in collaborating on React projects.
+- ⚛️ I'm interested in collaborating on projects.
 - 📫 How to reach me: https://rileylitchfield.com/
 - 👉 You can also find me on LinkedIn: https://www.linkedin.com/in/rileylitchfield/
 
