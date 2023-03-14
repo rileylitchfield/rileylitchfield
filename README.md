@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rileylitchfield.
-- 👀 I’m interested in Web Development.
+- 👀 I’m interested in WordPress Development.
 - 🌱 I’m currently building projects with WordPress and React.
 - ⚛️ I'm interested in collaborating on projects.
 - 📫 How to reach me: https://rileylitchfield.com/
