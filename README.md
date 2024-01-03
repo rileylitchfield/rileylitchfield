@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rileylitchfield.
 - 👀 I’m interested in WordPress, Azure Cloud Services, and Integration Development.
-- ⚛️ I'm open to collaborating on projects -- feel free to DM me!
+- ⚛️ I'm open to collaborating on projects -- feel free to DM me on LinkedIn!
 - 📫 How to reach me: https://rileylitchfield.com/
 - 👉 You can also find me on LinkedIn: https://www.linkedin.com/in/rileylitchfield/
 
