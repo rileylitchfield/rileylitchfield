@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rileylitchfield.
-- 👀 I’m interested in WordPress Development.
-- 🌱 I’m currently building projects with WordPress and React.
-- ⚛️ I'm interested in collaborating on projects.
+- 👀 I’m interested in WordPress, Azure Cloud Services, and Integration Development.
+- ⚛️ I'm open to collaborating on projects -- feel free to DM me!
 - 📫 How to reach me: https://rileylitchfield.com/
 - 👉 You can also find me on LinkedIn: https://www.linkedin.com/in/rileylitchfield/
 
