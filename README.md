@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @rileylitchfield.
-- 👀 I’m interested in WordPress, Azure Cloud Services, and Integration Development.
-- ⚛️ I'm open to new projects -- feel free to DM me on LinkedIn!
-- 📫 How to reach me: https://rileylitchfield.com/
-- 👉 You can also find me on LinkedIn: https://www.linkedin.com/in/rileylitchfield/
+# Riley Litchfield 👋
+
+## About Me
+I'm Riley, an IT Systems Developer with a strong background in Azure, specializing in integration, automation, and process improvement. I am passionate about enhancing system reliability, performance, and scalability through innovative solutions.
+
+## 📫 Get in Touch
+- [Website](https://rileylitchfield.com/)
+- [LinkedIn](https://www.linkedin.com/in/rileylitchfield/)
+- [GitHub](https://github.com/rileylitchfield)
 
 <!---
 rileylitchfield/rileylitchfield is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
