@@ -6,7 +6,6 @@ Hi, I’m Riley! As an IT Systems Developer with a solid foundation in Azure, I 
 ## 📫 Get in Touch
 - [Website](https://rileylitchfield.com/)
 - [LinkedIn](https://www.linkedin.com/in/rileylitchfield/)
-- [GitHub](https://github.com/rileylitchfield)
 
 <!---
 rileylitchfield/rileylitchfield is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
