@@ -1,7 +1,7 @@
 # Riley Litchfield 👋
 
 ## About Me
-I'm Riley, an IT Systems Developer with a strong background in Azure, specializing in integration, automation, and process improvement. I am passionate about enhancing system reliability, performance, and scalability through innovative solutions.
+Hi, I’m Riley! As an IT Systems Developer with a solid foundation in Azure, I focus on developing seamless integrations, automating workflows, and improving processes. I’m passionate about building reliable, high-performance, and scalable systems that make a real impact.
 
 ## 📫 Get in Touch
 - [Website](https://rileylitchfield.com/)
